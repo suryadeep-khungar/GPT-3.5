@@ -6,7 +6,7 @@ Welcome to the Generative AI Prompts Repository! This repository is a collection
 
 Explore the individual prompts below:
 
-* [Jean, Course Creator/Tutor Prompt](./jean-course-creator-tutor/README.md)
+* [Jean, Course Creator/Tutor Prompt](./jean-course-creator/README.md)
 * [Another Prompt Title](./another-prompt-title/README.md)
 * [Yet Another Prompt](./yet-another-prompt/README.md)
 

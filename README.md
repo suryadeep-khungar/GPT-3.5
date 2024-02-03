@@ -7,7 +7,7 @@ Welcome to the Generative AI Prompts Repository! This repository is a collection
 Explore the individual prompts below:
 
 * [Jean, Course Creator/Tutor Prompt](./Jean_Course%20Creator/README.md)
-* [Another Prompt Title](./Ryan_Your%20Personal%20Fitness%20Coach/README.md)
+* [Another Prompt Title](./Ryan_Personal%20Fitness%20Coach/README.md)
 * [Yet Another Prompt](./yet-another-prompt/README.md)
 
 Feel free to navigate to the specific prompt directories to learn more about each scenario, find usage instructions, and discover how you can interact with the prompts.

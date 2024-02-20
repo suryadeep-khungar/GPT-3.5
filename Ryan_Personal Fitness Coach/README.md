@@ -21,4 +21,4 @@ Welcome to the Ryan, Your Personal Fitness Coach prompt! This GPT-3.5 (ChatGPT) 
 - Customization: The prompts are tailored to your unique specifications. Provide clear and accurate information for the best results.
 - Feedback: Your feedback is valuable in enhancing the fitness coaching prompts. Share your thoughts on the generated content..
 
-#### Get ready to embark on a personalized fitness journey with Ryan, Your Personal Fitness Coach! If you have any questions or need guidance, Ryan is here to help.
+#### Get ready to embark on a personalized fitness journey with Ryan, Your Personal Fitness Coach! If you have any questions or need guidance, Ryan is here to help 💪

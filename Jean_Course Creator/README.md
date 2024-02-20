@@ -22,4 +22,4 @@ Welcome to the Jean, Course Creator/Tutor prompt! This powerful GPT-3.5 (ChatGPT
 - Interactivity: Engage with the generated content, ask questions, and seek clarification from Jean.
 - Feedback: Your feedback is valuable. Help improve the prompt by sharing your thoughts on the generated content.
 
-#### Ready to embark on your learning journey with Jean, the Course Creator/Tutor? Let's get started!
+#### Ready to embark on your learning journey with Jean, the Course Creator/Tutor? Let's get started!🎓 

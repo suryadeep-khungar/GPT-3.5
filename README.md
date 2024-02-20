@@ -8,7 +8,7 @@ Explore the individual prompts below:
 
 * [Jean, Course Creator/Tutor Prompt](./Jean_Course%20Creator/README.md)
 * [Ryan, Your Personal Fitness Coach Prompt](./Ryan_Personal%20Fitness%20Coach/README.md)
-* [Yet Another Prompt](./yet-another-prompt/README.md)
+* [David, Talent Recruiter and Interview Coach](./David_Talent%20Recruiter%20and%20Interview%20Coach/README.md)
 
 Feel free to navigate to the specific prompt directories to learn more about each scenario, find usage instructions, and discover how you can interact with the prompts.
 
